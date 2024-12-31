@@ -65,18 +65,6 @@ title = 'ola-iya'
   [params.logo]
     text = "ola-iya.bancole"
     url = "/"
-  [params.prism]
-    languages = [
-      "markup",
-      "css",
-      "clike",
-      "javascript"
-    ]
-    plugins = [
-      "normalize-whitespace",
-      "toolbar",
-      "copy-to-clipboard"
-    ]
     [params.imageResize]
         min = 300
         max = 700
