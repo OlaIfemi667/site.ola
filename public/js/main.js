@@ -1474,9 +1474,9 @@
     }
   });
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.js
   var require_prism_normalize_whitespace = __commonJS({
-    "ns-hugo:/root/site.ola/node_modules/prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.js"(exports, module) {
+    "ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.js"(exports, module) {
       (function() {
         if (typeof Prism === "undefined") {
           return;
@@ -1674,7 +1674,7 @@
   // <stdin>
   var import_prismjs = __toESM(require_prism());
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/components/prism-markup.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/components/prism-markup.js
   Prism.languages.markup = {
     "comment": {
       pattern: /<!--(?:(?!<!--)[\s\S])*?-->/,
@@ -1853,7 +1853,7 @@
   Prism.languages.atom = Prism.languages.xml;
   Prism.languages.rss = Prism.languages.xml;
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/components/prism-css.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/components/prism-css.js
   (function(Prism3) {
     var string = /(?:"(?:\\(?:\r\n|[\s\S])|[^"\\\r\n])*"|'(?:\\(?:\r\n|[\s\S])|[^'\\\r\n])*')/;
     Prism3.languages.css = {
@@ -1914,7 +1914,7 @@
     }
   })(Prism);
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/components/prism-clike.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/components/prism-clike.js
   Prism.languages.clike = {
     "comment": [
       {
@@ -1947,7 +1947,7 @@
     "punctuation": /[{}[\];(),.:]/
   };
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/components/prism-javascript.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/components/prism-javascript.js
   Prism.languages.javascript = Prism.languages.extend("clike", {
     "class-name": [
       Prism.languages.clike["class-name"],
@@ -2092,7 +2092,7 @@
   // <stdin>
   var import_prism_normalize_whitespace = __toESM(require_prism_normalize_whitespace());
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/plugins/toolbar/prism-toolbar.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/plugins/toolbar/prism-toolbar.js
   (function() {
     if (typeof Prism === "undefined" || typeof document === "undefined") {
       return;
@@ -2212,7 +2212,7 @@
     Prism.hooks.add("complete", hook);
   })();
 
-  // ns-hugo:/root/site.ola/node_modules/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.js
+  // ns-hugo:/home/ola-iya/site.ola/node_modules/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.js
   (function() {
     if (typeof Prism === "undefined" || typeof document === "undefined") {
       return;
