@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salut, je suis Ola-Iya 👋 on ola-iya</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Salut, je suis Ola-Iya 👋 on ola-iya</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024 - 2027 Ola-Iya BANCOLE</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Experience# Full Stack Developer 2011-11-01 - present Grafnet — Société de informatique spécialisé en audit informatique, ingénerie logicielle et infrastructures IT. Cotonou, Bénin Since 2021.&#xA;Education# Cybersecurité (Licence) 2021 - 2024 University I will a link to the courses programs Certificates# Skills# Cybersecurité (Licence)&#xA;C, C&amp;#43;&amp;#43;, python, HTML5, CSS, JS, Pentesting, CTF Languages# Français — Courant English — Projects# Author 2024 - present Intruder — Un outil de pentest marchant avec mistralAI et écrit en C&amp;#43;&amp;#43;(QT) Prompt engineering, POO, Cybersecurité.</description>
+    </item>
+    <item>
+      <title>Musique</title>
+      <link>http://localhost:1313/musique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/musique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Voici quelque project sur lesquels j&amp;rsquo;ai travaillé ou je travaille. Contactez moi&#xA;Intruder# Jean</description>
+    </item>
+    <item>
+      <title>whoami</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Depuis mon enfance, l’informatique a toujours été une part essentielle de ma vie. Tout a commencé à 3 ou 4 ans, lorsque ma maman me laissait utiliser son ordinateur pour jouer ou préparer des exposés. J’ai eu mon premier PC bien plus tard, en classe de 5e : un HP dual-core sous Windows 7.&#xA;Mon premier véritable contact avec la tech s’est fait avec un ami, lorsque nous avons tenté de créer un blog (spoiler : ça n’a pas marché, et nous avons fini par utiliser Wix !</description>
+    </item>
+  </channel>
+</rss>

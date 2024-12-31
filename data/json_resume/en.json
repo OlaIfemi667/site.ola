@@ -1,0 +1,89 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ola-Iya BANCOLE",
+    "label": "Pentesteur junior",
+    "image": "profile.png",
+    "summary": "Je suis un être vivant :).",
+    "location": {
+      "city": "Calavi",
+      "region": "Benin"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/OlaIfemi667"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/ola_goated"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jean-de-dieu-bancole-54b65123b/"
+      },
+      {
+        "network": "RSS",
+        "url": "index.xml"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Grafnet",
+      "location": "Cotonou, Bénin",
+      "description": "Société de informatique spécialisé en audit informatique, ingénerie logicielle et infrastructures IT.",
+      "position": "Full Stack Developer",
+      "url": "-",
+      "startDate": "2011-11-01",
+      "summary": "Since 2021."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "--------------",
+      "area": "Cybersecurité",
+      "studyType": "Licence",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "",
+      "courses": [
+        "I will a link to the courses programs"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cybersecurité",
+      "level": "Licence",
+      "keywords": ["C", "C++", "python", "HTML5", "CSS", "JS", "Pentesting", "CTF"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Courant"
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Intruder",
+      "description": "Un outil de pentest marchant avec mistralAI et écrit en  C++(QT)",
+      "startDate": "2024",
+      "highlights": [
+        "Prompt engineering, POO, Cybersecurité. Cet outil est juste un prototype pour le moment et évoluera avec le temps. "
+      ],
+      "roles": ["Author"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
